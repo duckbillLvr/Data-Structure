@@ -1,5 +1,6 @@
 //우선순위를 입력하는 힙(우선순위 큐)
 // Priority를 목적에 맞게 자동 설정
+//성능평가: Big(nlogn)
 #include <stdio.h>
 #include <stdlib.h>
 #define TRUE 1
